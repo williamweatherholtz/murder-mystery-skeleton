@@ -1,0 +1,3 @@
+[submodule "murder_mystery_printer"]
+	path = murder_mystery_printer
+	url = https://github.com/williamweatherholtz/murder_mystery_printer
